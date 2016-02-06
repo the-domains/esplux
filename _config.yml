@@ -1,0 +1,14 @@
+layout_spectrum: 0.243213
+typography_spectrum: 0.4737727
+color:
+  saturation: 0.7111228
+  lightness: 0.8023339
+  brandStrength: 0.1970327
+  rhythmicContrast: 0.1510649
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Esplux

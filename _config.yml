@@ -1,14 +1,26 @@
-layout_spectrum: 0.243213
-typography_spectrum: 0.4737727
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7111228
+  brandStrength: 0.5644469
   lightness: 0.8023339
-  brandStrength: 0.1970327
-  rhythmicContrast: 0.1510649
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#F3F4F4'
+    - '#5D5B5D'
+    - '#000000'
+    - '#D0C6BD'
+    - '#9A785D'
+  rhythmicContrast: 0.1510649
+typography_spectrum: 0.4737727
+layout_spectrum: 0.243213
 name: Esplux
